@@ -17,6 +17,8 @@ public class RobotColorChooser {
 		ap.setPenWidth(10);
 		ap.setSpeed(50);
 		for (int a = 0; a < 10; a ++) {
+			
+			
 	
 		//4. Ask the user what color pen they would like the robot to draw with
 		String first = JOptionPane.showInputDialog("what pen color would you like?(red, green, yellow, or blue)");
