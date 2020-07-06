@@ -1,7 +1,6 @@
 
 package _03_modulo._4_fizz_buzz;
 
-
 /**
  * Fizz Buzz
  * 
